@@ -1,16 +1,14 @@
-## Hi there 👋
+# Data Science Portfolio – jakeRG1
 
-<!--
-**jakerg1/jakerg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my data science portfolio! I'm an aspiring data scientist with a background in Python and a strong interest in astronomy, machine learning, and data analysis.
 
-Here are some ideas to get you started:
+### 🚀 Projects Included:
+- **Planet X Candidate Search (SDSS Data)**: Analyzing Sloan Digital Sky Survey data to search for potential Planet Nine candidates using filtering and statistical techniques.
+- **Kaggle Competitions**: Classic machine learning problems. using regression, classification, and model tuning.
+- **Daily Codewars Challenges**: Algorithmic problem solving in Python—demonstrates fluency with logic, recursion, data structures, and efficient coding.
+- **Personal Projects**: Projects that interest me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Find me here:
+- GitHub: [github.com/jakerg1](https://github.com/jakerg1)
+- Kaggle: https://www.kaggle.com/jakergarcia
+- LinkedIn: www.linkedin.com/in/jake-garcia-091341349
